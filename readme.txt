@@ -4,3 +4,5 @@ Git has a mutable index called stage
 Git tracks changes
 Creating a new branch is quick.
 I have fix the bug now!
+duhuajiang
+
